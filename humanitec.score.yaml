@@ -6,4 +6,4 @@ spec:
         http:
           "/":
             type: prefix
-            port: 3000
+             port: 3000
